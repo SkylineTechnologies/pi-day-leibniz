@@ -1,0 +1,15 @@
+{
+  "name": "picalc",
+  "version": "1.0.0",
+  "description": "Calculate Pi very slowly",
+  "main": "PiCalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^4.0.0",
+    "moment": "^2.21.0"
+  }
+}
